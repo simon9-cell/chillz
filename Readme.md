@@ -14,7 +14,7 @@ Movie Grid: A dynamic card layout displaying movie posters, release years, and s
 
 Mobile Friendly: Includes a hamburger menu for smaller screens.
 
- Built With
+🛠️ Built With
 HTML5: Semantic structure.
 
 CSS3: Custom styling and layout (flexbox/grid).
@@ -29,3 +29,6 @@ Plaintext
 ├── index.css        # Stylesheet for the dashboard
 ├── signup.html      # User registration page
 └── assts/           # Image assets and posters
+
+
+
